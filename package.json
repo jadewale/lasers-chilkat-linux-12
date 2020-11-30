@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      "@chilkat/ck-node12-linux64@9.50.83",
+      "/home/bitnami/lashpers-api-demo/lashpers-api"
+    ]
+  ],
+  "_from": "@chilkat/ck-node12-linux64@9.50.83",
+  "_id": "@chilkat/ck-node12-linux64@9.50.83",
+  "_inBundle": false,
+  "_integrity": "sha512-+49vOKO8PCIoG+xiwqNIjbG1KCMpWKednZCV659yFrnmPray9mkUO7KRU/J2Uu2cHaZA/hd0SxjTJXgAhrf11A==",
+  "_location": "/@chilkat/ck-node12-linux64",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@chilkat/ck-node12-linux64@9.50.83",
+    "name": "@chilkat/ck-node12-linux64",
+    "escapedName": "@chilkat%2fck-node12-linux64",
+    "scope": "@chilkat",
+    "rawSpec": "9.50.83",
+    "saveSpec": null,
+    "fetchSpec": "9.50.83"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@chilkat/ck-node12-linux64/-/ck-node12-linux64-9.50.83.tgz",
+  "_spec": "9.50.83",
+  "_where": "/home/bitnami/lashpers-api-demo/lashpers-api",
+  "author": {
+    "name": "Chilkat Software, Inc.",
+    "email": "support@chilkatsoft.com",
+    "url": "http://www.chilkatsoft.com/"
+  },
+  "cpu": [
+    "x64"
+  ],
+  "description": "Chilkat classes for Node.js",
+  "engines": {
+    "node": ">=12.0.0 <13.0.0"
+  },
+  "keywords": [
+    "chilkat",
+    "SSH",
+    "SFTP",
+    "FTP",
+    "FTPS",
+    "POP3",
+    "SMTP",
+    "REST",
+    "JWT",
+    "OAuth2",
+    "IMAP",
+    "Certificate",
+    "ASN.1",
+    "PKCS7",
+    "Signature",
+    "RSA",
+    "DSA",
+    "ECC",
+    "S3",
+    "S/MIME",
+    "MIME",
+    "Email",
+    "PFX",
+    "PEM",
+    "SCP",
+    "Java KeyStore",
+    "GZip",
+    "DKIM",
+    "MHT",
+    "HMAC",
+    "Hashing",
+    "Compression",
+    "Socket",
+    "TLS",
+    "SSL",
+    "SSH Tunnel",
+    "Encoding",
+    "Charset",
+    "Zip",
+    "HTTP",
+    "Encryption"
+  ],
+  "licenses": [
+    {
+      "type": "Chilkat",
+      "url": "http://www.chilkatsoft.com/licensingExplained.asp"
+    }
+  ],
+  "main": "chilkat.node",
+  "name": "@chilkat/ck-node12-linux64",
+  "os": [
+    "linux"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.50.83"
+}
